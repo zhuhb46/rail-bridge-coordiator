@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=TXD_LORA Pin=LoRa-19
+Added Pin To Net: NetName=RXD_LORA Pin=LoRa-20

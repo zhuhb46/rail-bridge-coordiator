@@ -1,0 +1,2 @@
+Remove Pin=LoRa-19 From Net=TXD_LORA
+Remove Pin=LoRa-20 From Net=RXD_LORA

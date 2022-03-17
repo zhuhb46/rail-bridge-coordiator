@@ -1,0 +1,15 @@
+Added Component: Designator=U4(Bat_Charge)
+Added Pin To Net: NetName=PV_IN+ Pin=U4-1
+Added Pin To Net: NetName=PV_IN+ Pin=U4-1
+Added Pin To Net: NetName=PV_IN- Pin=U4-2
+Added Pin To Net: NetName=PV_IN- Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=5V Pin=U4-4
+Added Pin To Net: NetName=5V Pin=U4-4
+Added Pin To Net: NetName=VBAT Pin=U4-5
+Added Pin To Net: NetName=VBAT Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Member To Class: ClassName=LoRa_stm32 Member=Component U4 BatCharge
+Added Room: Name=LoRa_stm32

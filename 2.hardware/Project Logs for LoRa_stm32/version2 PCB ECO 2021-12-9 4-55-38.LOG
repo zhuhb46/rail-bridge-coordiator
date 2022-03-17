@@ -1,0 +1,9 @@
+Added Component: Designator=P1(Í­Öù¿×)
+Added Component: Designator=P2(Í­Öù¿×)
+Added Component: Designator=P3(Í­Öù¿×)
+Added Component: Designator=P4(Í­Öù¿×)
+Added Member To Class: ClassName=LoRa_stm32 Member=Component P1 Í­Öù¿×
+Added Member To Class: ClassName=LoRa_stm32 Member=Component P2 Í­Öù¿×
+Added Member To Class: ClassName=LoRa_stm32 Member=Component P3 Í­Öù¿×
+Added Member To Class: ClassName=LoRa_stm32 Member=Component P4 Í­Öù¿×
+Added Room: Name=LoRa_stm32

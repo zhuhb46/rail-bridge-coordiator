@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Net Name : Old Net Name=NetM?_5 New Net Name=NetM1_5
+Change Net Name : Old Net Name=NetM?_7 New Net Name=NetM1_7
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ1_2
+Added Member To Class: ClassName=LoRa_stm32 Member=Component R1 10K
+Added Member To Class: ClassName=LoRa_stm32 Member=Component R2 10K
+Added Room: Name=LoRa_stm32

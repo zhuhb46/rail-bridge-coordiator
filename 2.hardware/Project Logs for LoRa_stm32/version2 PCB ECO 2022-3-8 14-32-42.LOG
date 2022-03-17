@@ -1,0 +1,5 @@
+Added Component: Designator=Q?(TO-92)
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetM1_5 Pin=Q?-3
+Added Member To Class: ClassName=LoRa_stm32 Member=Component Q? Èý¼«¹Ü(NPN)

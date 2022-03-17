@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetM1_5 Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Member From Class: ClassName=LoRa_stm32 Member=Q1
+Added Component: Designator=Q?(SOT-23-3)
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=NetM1_5 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R2-1
+Added Pin To Net: NetName=NetQ?_2 Pin=R3-1
+Added Net: Name=NetQ?_2
+Added Member To Class: ClassName=LoRa_stm32 Member=Component Q? Èý¼«¹Ü(NPN)

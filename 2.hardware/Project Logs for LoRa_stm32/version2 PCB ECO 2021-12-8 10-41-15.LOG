@@ -1,0 +1,10 @@
+Added Component: Designator=LoRa(SMD-44_18.22X26.65X1.27P)
+Added Pin To Net: NetName=GND_LORA Pin=LoRa-11
+Added Pin To Net: NetName=GND_LORA Pin=LoRa-12
+Added Pin To Net: NetName=VBAT Pin=LoRa-13
+Added Pin To Net: NetName=VBAT Pin=LoRa-14
+Added Pin To Net: NetName=PA10 Pin=LoRa-19
+Added Pin To Net: NetName=PA9 Pin=LoRa-20
+Added Pin To Net: NetName=Wake Pin=LoRa-23
+Added Pin To Net: NetName=HOST_WAKE Pin=LoRa-24
+Added Member To Class: ClassName=LoRa_stm32 Member=Component LoRa WH-L101-L_Lib_V1.1

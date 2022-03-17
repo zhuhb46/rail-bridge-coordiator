@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LoRa_EN Pin=U-10
+Added Pin To Net: NetName=LoRa_EN Pin=U-36
+Added Pin To Net: NetName=PA5 Pin=U-10
+Added Net: Name=PA5
+Added Room: Name=LoRa_stm32

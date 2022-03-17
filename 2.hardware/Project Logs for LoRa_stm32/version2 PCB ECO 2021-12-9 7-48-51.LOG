@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=VBAT Pin=C2-1
+Removed Pin From Net: NetName=VBAT Pin=LoRa-13
+Removed Pin From Net: NetName=VBAT Pin=LoRa-14
+Removed Pin From Net: NetName=VBAT Pin=R_up1-2
+Removed Pin From Net: NetName=VBAT Pin=R_up2-2
+Removed Pin From Net: NetName=VBAT Pin=R_up3-2
+Removed Pin From Net: NetName=VBAT Pin=R_up4-2
+Removed Pin From Net: NetName=VBAT Pin=UART_LORA-4
+Added Component: Designator=C15(0603-C)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uf"; VariantName = "[No Variations]"
+Added Component: Designator=VCC(XH-2P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=Boost_EN Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=5V Pin=LoRa-13
+Added Pin To Net: NetName=5V Pin=LoRa-14
+Added Pin To Net: NetName=5V Pin=R_up1-2
+Added Pin To Net: NetName=5V Pin=R_up2-2
+Added Pin To Net: NetName=5V Pin=R_up3-2
+Added Pin To Net: NetName=5V Pin=R_up4-2
+Added Pin To Net: NetName=5V Pin=UART_LORA-4
+Added Pin To Net: NetName=5V Pin=VCC-1
+Added Pin To Net: NetName=VBAT Pin=VCC-2
+Added Member To Class: ClassName=LoRa_stm32 Member=Component C15 2.2uf
+Added Member To Class: ClassName=LoRa_stm32 Member=Component VCC UART_4G
+Added Room: Name=LoRa_stm32

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=LoRa-11
+Added Pin To Net: NetName=GND Pin=LoRa-12
+Added Pin To Net: NetName=GND Pin=UART_LORA-3
+Added Member To Class: ClassName=LoRa_stm32 Member=Component R3 10K
+Added Room: Name=LoRa_stm32
